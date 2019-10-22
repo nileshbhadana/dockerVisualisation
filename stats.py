@@ -2,7 +2,7 @@
 # coding: utf-8
 # In[1]:
 
-
+#importing libraries
 from pyspark import SparkContext,SparkConf
 
 
